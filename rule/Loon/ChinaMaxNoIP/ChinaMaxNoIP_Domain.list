@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-02 02:09:45
+# UPDATED: 2022-12-03 02:09:46
 # DOMAIN: 149
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67274
+# DOMAIN-SUFFIX: 67273
 # USER-AGENT: 65
-# TOTAL: 67502
+# TOTAL: 67501
 265.com
 accounts.googlers.com
 accounts.xn--9trs65b.com
@@ -671,7 +671,6 @@ xn--flw351e.com
 .0755haoyu.com
 .0755hj.com
 .0755hz.com
-.0755rc.com
 .0755si.com
 .0755ws.com
 .0755zb.com

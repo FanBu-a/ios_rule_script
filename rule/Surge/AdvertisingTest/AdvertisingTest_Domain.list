@@ -1,19 +1,18 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-02 02:07:42
+# UPDATED: 2022-12-03 02:07:35
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 10442
+# DOMAIN: 10436
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 97629
+# DOMAIN-SUFFIX: 97670
 # IP-CIDR: 244
 # URL-REGEX: 301
-# TOTAL: 108881
+# TOTAL: 108916
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
-00px.net
 012469af389a1d1246d.com
 017e689c749.com
 02b5da94a2bd4aea.com
@@ -682,6 +681,7 @@ aewzmsurtab.com
 af201768865.com
 afa15.com.ne.kr
 afaeqxnbylkxp.com
+afcnuchxgo.com
 afcxojqr.com
 afeeknuueaztxt.com
 afeuvqrsswz.com
@@ -858,7 +858,6 @@ anizedglittledisco.info
 anjqxwvqfnri.com
 anmvuuhgo.com
 annualinternetsurvey.com
-anonym.data.funkedigital.de
 anonymousdmp.com
 anorrecenturybr.info
 anovbqzmit.com
@@ -962,7 +961,6 @@ appboy-images.com
 appearch.info
 appier.com
 apple.www.letv.com
-applequan.com
 applescringe.com
 applesometimes.com
 applog-perf.uc.cn
@@ -1319,6 +1317,7 @@ bgvfceqpqzx.com
 bgwbqsmj.com
 bgwucxto.com
 bgzdrgliwew.com
+bh2q.fun
 bhlusdvadp.com
 bhplyiegippcw.com
 bhrebiicmcj.com
@@ -1771,7 +1770,6 @@ chtatic.appspot.com
 chufudsi.net
 chvwtxtzmzbggo.com
 chxwlqtvgrw.com
-cibgphkiqbjk.com
 ciclismovalenciano.com
 ciecissstwncw.com
 cifenqi.com
@@ -1893,7 +1891,6 @@ coincheck.com
 coinwire.eu
 colleable.info
 collector.pyze.com
-collector.xhwide8.com
 collector2c.zhihuishu.com
 colmwynne.com
 colpory.com
@@ -3102,7 +3099,6 @@ forms.windowsitpro.com
 forpyke.com
 forrestersurveys.com
 forttantontherdown.info
-fortunatemark.com
 fosclhrsdhhn.com
 foswrohqoadp.com
 fotw.xyz
@@ -3392,13 +3388,11 @@ gjrstyulnbf.com
 gjrzirxxkbw.com
 gjyfmlrqssyj.com
 gkatquevzk.com
-gkcmei.xyz
 gkgojxjucutvnt.com
 gkhfahrtren.com
 gkhyhmtj.com
 gkjtchmlj.com
 gklmedia.com
-gknybkl.cn
 gkpsrxgdbco.com
 gkqcduzwla.com
 gkrvcunjoacvc.com
@@ -3582,6 +3576,7 @@ gxpijskyqwqfjw.com
 gxqocoxl.com
 gxqotelkdra.com
 gxyrnjtgtwll.com
+gyhyhyq.website
 gykmfqxeolnne.com
 gynzvwhup.com
 gyoajmeq.com
@@ -3599,7 +3594,6 @@ h.imguol.com
 h.jcqtb.cn
 h.mobcells.com
 h56h5r.xyz
-h6cp.icu
 h6y654wgfdhd.com
 h83zvgrg29.com
 h92zbpn4zcv1.com
@@ -3850,7 +3844,6 @@ hskczbmm.com
 hsnoamgzlksidfliivb.com
 hsqbeznk.com
 hsqujerwg.com
-hssebb.xyz
 hst-19-33.splius.lt
 hsxftwpltcmil.com
 hsydzoapohcvbz.com
@@ -5045,7 +5038,6 @@ lkubjgrjslmgxo.com
 lkuirehx.com
 lkvifcxvqkwrl.com
 lkyuoybczr.com
-ll.k743.com
 llajhfzpoxhr.com
 lld2q.com
 llhshirhrbkn.com
@@ -5622,7 +5614,6 @@ mtzddtrs.com
 mtzszlpypbxjm.com
 muagjoxfew.com
 muchritfakethen.info
-mucmoapa.com
 mueller-holz-bau.com
 mueyqvzw.com
 muhexvakuawzo.com
@@ -7092,6 +7083,7 @@ qwewdw.net
 qwkiafssml.com
 qwlckbrwxizg.com
 qwrfpgf.com
+qwtag.com
 qwuejlmct.com
 qwuexgqmua.com
 qwulxgznx.com
@@ -8354,6 +8346,7 @@ track.mads.ph
 track.mct.moblin.com
 track.mixmax.com
 track.mob193.com
+track.myli.io
 track.mypcbackup.com
 track.opicle.com
 track.sp.actionkit.com
@@ -9010,6 +9003,7 @@ vpjtrmeyq.com
 vplvywqxsm.com
 vpnaffiliates.hidester.com
 vpndcpxavg.com
+vpnsafebrowsing.com
 vptggenzv.com
 vptgnqpknpdyq.com
 vpwdweham.com
@@ -9344,6 +9338,7 @@ wondefulapplend.com
 workably.club
 worlddatinghere.com
 worldsearchpro.com
+wotmvdc.cn
 wouhaish.com
 wouvista.com
 wozltvfxtntaqk.com
@@ -9908,7 +9903,6 @@ yagcaumz.com
 yahbdmyvvmjh.com
 yaikleyabl.com
 yajeaumd.com
-yangliu.ink
 yanskweqyuma.com
 yatgrotthyzpm.com
 yatnozin.info
@@ -10481,6 +10475,7 @@ zzxosget.com
 .00d1n000002btifuae.net.zooplus.com
 .00da0000000ya3ymag.net.zooplus.com
 .00oo00.com
+.00px.net
 .00xvppy.cn
 .01-csr31.net.zooplus.de
 .01-csr41.net.zooplus.de
@@ -10618,6 +10613,7 @@ zzxosget.com
 .0728w.cn
 .0735ce74e7.com
 .0755man.cn
+.0755rc.com
 .07568592222.xyz
 .0756sjlm.com.cn
 .0757kd.cn
@@ -13429,6 +13425,7 @@ zzxosget.com
 .885741.com
 .885842.com
 .8858de83b4.com
+.8861203.com
 .8866786.com
 .888.izhufu.net
 .888.jiuwanwang.com
@@ -14430,6 +14427,7 @@ zzxosget.com
 .a8.yanoman.com
 .a8.yuzen-official.com
 .a8.zeroku.jp
+.a81ae971fb.com
 .a8723.com
 .a8a8altrk.com
 .a8aspconv.itx-home-router.com
@@ -14825,7 +14823,6 @@ zzxosget.com
 .aa-metrics.salonboard.com
 .aa-metrics.tabroom.jp
 .aa-metrics.trip-ai.jp
-.aa.0755rc.com
 .aa.analog.com
 .aa.athome.com
 .aa.avvo.com
@@ -22136,6 +22133,7 @@ zzxosget.com
 .anomalousporch.com
 .anon-stats.eff.org
 .anonima.to
+.anonym.data.funkedigital.de
 .anonymous-net.com
 .anonymousads.com
 .anonymousdemographics.com
@@ -25006,6 +25004,7 @@ zzxosget.com
 .babysitterdeadlockjuly.com
 .bac-reunion.fr
 .bac221.skin
+.bac23cfb5b.com
 .back.marketing
 .backbeatmedia.com
 .backetkidlike.com
@@ -25230,6 +25229,7 @@ zzxosget.com
 .bakeryembedded.com
 .bakibarus.com
 .baking.ren
+.bakjaqa.net
 .baklajansss.site
 .bakskxxmsobs.xyz
 .bakteso.ru
@@ -26260,6 +26260,7 @@ zzxosget.com
 .bedevilaspirinromance.com
 .bedevilglare.com
 .bedhdig.cn
+.bedmantaximan.com
 .bedrapiona.com
 .bedriddenbare.com
 .bedsberry.com
@@ -27689,6 +27690,7 @@ zzxosget.com
 .bmlmedia.com
 .bmmetrix.com
 .bmmncj.anacondastores.com
+.bmmogb.xyz
 .bmnr.pw
 .bmojjb.scienceinsport.com
 .bmp.ali213.net
@@ -31489,6 +31491,7 @@ zzxosget.com
 .cialis.ourtablets.com
 .ciattedrof.ru
 .cib.currency.lloydsbank.com
+.cibgphkiqbjk.com
 .cibleclick.com
 .cic-epargnrsalariale.fr
 .cicero-mit.com
@@ -32731,7 +32734,6 @@ zzxosget.com
 .cnt.ramlife.ru
 .cnt.spbland.ru
 .cnt.st
-.cnt.streamz.ws
 .cnt.viptube.com
 .cnt.vivatube.com
 .cnt.xcounter.com
@@ -33043,6 +33045,7 @@ zzxosget.com
 .collect.iteam-dress.com
 .collect.media.jio.com
 .collect.meilleurtaux.com
+.collect.nature.com
 .collect.ovp.vn
 .collect.rewardstyle.com
 .collect.serious.li
@@ -33110,6 +33113,7 @@ zzxosget.com
 .collector.xhamster.desi
 .collector.xhamster2.com
 .collector.xhwide1.com
+.collector.xhwide8.com
 .collector1.afreecatv.com
 .collector1.xhamster.com
 .collectorearnammonia.com
@@ -39660,6 +39664,7 @@ zzxosget.com
 .dialogue.mazda.si
 .dialogue.mazda.sk
 .dialogue.nl.mazda.be
+.dialoguemarvellouswound.com
 .dialoguetramppayoff.com
 .diamages.carte-gr.total.fr
 .diamax.hk
@@ -45372,6 +45377,7 @@ zzxosget.com
 .fathomseo.com
 .fathuntsgall.com
 .fatlossremedies.com
+.fatowzsis.com
 .fatpop.net
 .fatsosjogs.com
 .fatstepn.click
@@ -45716,6 +45722,7 @@ zzxosget.com
 .ferdictivesone.xyz
 .feredgurned.xyz
 .feridgiuntelic.com
+.fermacyupplow.com
 .fermentsinewencase.com
 .fermolo.info
 .fernomius.com
@@ -46703,6 +46710,7 @@ zzxosget.com
 .fortrader.ru
 .fortran.icu
 .fortssturt.com
+.fortunatemark.com
 .fortunescrollstrap.com
 .fortvision.com
 .forum.globusevent.ru
@@ -48898,6 +48906,7 @@ zzxosget.com
 .gk1.zjbiz.net
 .gk277.cn
 .gk596.cn
+.gkcmei.xyz
 .gkcqyo.aquazzura.com
 .gkdmqvqj.com
 .gkefsixxlzhn.com
@@ -48910,6 +48919,7 @@ zzxosget.com
 .gkksi.com
 .gkmohklyjyh.com
 .gkngokwjmykp.xyz
+.gknybkl.cn
 .gkofzfi.cn
 .gkpohvff.com
 .gkqhsq.the-citizenry.com
@@ -49544,6 +49554,7 @@ zzxosget.com
 .gongshu168.cn
 .gongwuyuan.name
 .gongxifc.com
+.goniforas.com
 .gontent.steamplay.me
 .goobbe.com
 .gooblesdd.com
@@ -50600,6 +50611,7 @@ zzxosget.com
 .h5tjj3loy2.com
 .h5v.eu
 .h6295.com
+.h6cp.icu
 .h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 .h728.cn
 .h78xb.pw
@@ -52609,6 +52621,7 @@ zzxosget.com
 .hsrvv.com
 .hsrvz.com
 .hssapp.shop
+.hssebb.xyz
 .hsslx.com
 .hsswcei.cn
 .hstats.hepsiburada.com
@@ -52642,6 +52655,8 @@ zzxosget.com
 .htintpa.tech
 .htjrlm.com
 .htjsk.com
+.htkk1.top
+.htkk2.top
 .htl.bid
 .htlbid.com
 .htm1.ch
@@ -56535,6 +56550,7 @@ zzxosget.com
 .jgdguc.arcteryx.com
 .jgejqdddslxry.com
 .jghcy.com
+.jghmrie.cn
 .jgirlvlh.com
 .jgkto.com
 .jglinks.cn
@@ -59220,6 +59236,7 @@ zzxosget.com
 .kyavjouvnii.com
 .kybladfrtfc.com
 .kychajuza.com
+.kydb.xyz
 .kyefakwa.com
 .kyizzs.com
 .kyjoyk.modoza.com
@@ -59372,6 +59389,7 @@ zzxosget.com
 .laboiteorse.fr
 .laborates.com
 .laborex.hu
+.labortiontrifee.com
 .labortiontrifee.info
 .labourmuttering.com
 .labourpushed.com
@@ -59515,6 +59533,7 @@ zzxosget.com
 .landing.altaro.com
 .landing.computershare.com
 .landing.meendo.com
+.landing1.brazzersnetwork.com
 .landingairquality.airlite.com
 .landingpagelagi.vn
 .landingpg.com
@@ -59745,6 +59764,7 @@ zzxosget.com
 .lbts.ltd
 .lbv5.mperf.com
 .lbwcdnjpy.com
+.lbzx.xyz
 .lc1982.lol
 .lc1b2.cn
 .lc2ads.ru
@@ -61085,6 +61105,7 @@ zzxosget.com
 .ll.a.hulu.com
 .ll.gxsky.com
 .ll.hudong.com
+.ll.k743.com
 .ll.songlaoban.cn
 .ll38.com
 .llahnch259.com
@@ -65917,6 +65938,7 @@ zzxosget.com
 .miarroba.info
 .miastina.pw
 .miatip.cn
+.mibafara.com
 .mibebu.com
 .mibknb.com
 .mibmcbm.com
@@ -67547,6 +67569,7 @@ zzxosget.com
 .mucinshasht.com
 .mucinyak.com
 .mucizewus.com
+.mucmoapa.com
 .mucums.com
 .mud4.destinia.com.eg
 .mudcxq.cn
@@ -69238,6 +69261,7 @@ zzxosget.com
 .nightfallinquiredune.com
 .nightfallroad.com
 .nightswatch-go-collector-y2.yieldify-production.com
+.nigner.com
 .nihao987654.top
 .nihaomama.monster
 .nihiliroom.xyz
@@ -71689,6 +71713,7 @@ zzxosget.com
 .oqieibkoqxwt.com
 .oqluxm.furhatworld.com
 .oqnggnsk.fun
+.oqnvtoxbsgp.com
 .oqr4.destinia.in
 .oqrwpru.cn
 .oqshoyd.cn
@@ -76351,6 +76376,7 @@ zzxosget.com
 .psbiaf.converse.com
 .pscfammuw.com
 .psclicks.com
+.psdn.xyz
 .pseekree.com
 .pseekseecm.com
 .pseepsie.com
@@ -77301,6 +77327,7 @@ zzxosget.com
 .qbazhaheiy.top
 .qbc1.cn
 .qbccpgljgxc.com
+.qbcydxr.cn
 .qbdgame.com
 .qbgrmsk.cn
 .qbgvgw.angeloni.com.br
@@ -79057,6 +79084,7 @@ zzxosget.com
 .refutationexcessiveglamour.com
 .refutationoverwhelming.com
 .refutationtiptoe.com
+.refutu.com
 .refwkk.cas.sk
 .refwkk.mojewypieki.com
 .refwkk.omnicalculator.com
@@ -82768,6 +82796,7 @@ zzxosget.com
 .securedloading.com
 .securedlogin.org
 .securedopen-bp.com
+.securedvisit.com
 .securee.ru
 .secureforms.xperthr.nl
 .securegate.xyz
@@ -84301,6 +84330,7 @@ zzxosget.com
 .sitiveadditio.biz
 .sitizy.network
 .sitorew.com
+.sitpotpdluiphgj.com
 .sitreleastme.info
 .sitrion.fr
 .sitti.co.id
@@ -90412,6 +90442,7 @@ zzxosget.com
 .sukodanos.pics
 .sukodanos.xyz
 .sulcateeclogue.com
+.suldansspikes.com
 .sulfitevariola.com
 .suliglsr.space
 .sulkybutter.com
@@ -92814,6 +92845,7 @@ zzxosget.com
 .terciogouge.com
 .teredo.ipv6.microsoft.com
 .teresacd.cn
+.terialnevitiesini.com
 .terialnevitiesini.info
 .termadodad.com
 .terminargal.com
@@ -94027,6 +94059,7 @@ zzxosget.com
 .tmxhub.com
 .tmximg.draftkings.com
 .tmy8.madeindesign.ch
+.tmyzer.com
 .tmz.vo.llnwd.net
 .tn.5.p2l.info
 .tn05.ru
@@ -95787,7 +95820,6 @@ zzxosget.com
 .track.searchiq.co
 .track.searchlinks.directory
 .track.searchrecommendresults.info
-.track.securedvisit.com
 .track.securitycamerasbestworld.com
 .track.segmentstream.com
 .track.sendo.vn
@@ -98253,6 +98285,7 @@ zzxosget.com
 .uorlsblg.cyou
 .uoutube.com
 .uowbqce.surf
+.uoxhxwrttmmq.com
 .uoyrsd.com
 .uozrikpw.com
 .up-cookiemon.wavecdn.net
@@ -105442,6 +105475,7 @@ zzxosget.com
 .yanghuaer.mobi
 .yanglangkk.cn
 .yanglaopt.net
+.yangliu.ink
 .yangll.xin
 .yangniupiju.com
 .yangshengzu.cn
@@ -105616,6 +105650,7 @@ zzxosget.com
 .yeahmobi.com
 .yealnk.com
 .yeaonesad.com
+.yearbookhobblespinal.com
 .yearil.com
 .yearlingpreferablyperiods.com
 .yearlylight.com
