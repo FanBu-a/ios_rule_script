@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-10 02:09:16
+# UPDATED: 2022-12-12 02:09:50
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66107
+# DOMAIN-SUFFIX: 66123
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66305
+# TOTAL: 66321
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -959,6 +959,7 @@ xn--flw351e.com
 .chuanke.com
 .chuansong.me
 .chuansongme.com
+.chugou360.com
 .chuimg.com
 .chunbo.com
 .chunboimg.com
@@ -2013,6 +2014,7 @@ xn--flw351e.com
 .jidian.im
 .jiemeng8.com
 .jiemian.com
+.jikeiot.cloud
 .jikexueyuan.com
 .jikipedia.com
 .jindidata.com
@@ -3449,6 +3451,7 @@ xn--flw351e.com
 .ybccode.com
 .yccdn.com
 .ycgame.com
+.ycrx360.com
 .ydamc.com
 .ydstatic.com
 .yeah.net
@@ -4585,7 +4588,6 @@ xn--flw351e.com
 .117play.com
 .118114.net
 .1188.com
-.1189.tv
 .118cy.com
 .118jm.com
 .118pan.com
@@ -5533,7 +5535,6 @@ xn--flw351e.com
 .2018jsybh.com
 .2018zjjly.com
 .2019cdac.com
-.2019zjj.com
 .202030.com
 .2021.com
 .2022cdnpl.com
@@ -6088,7 +6089,6 @@ xn--flw351e.com
 .312green.com
 .312yy.com
 .313.com
-.3131tyc.com
 .313515.com
 .3145.com
 .314pay.com
@@ -6570,7 +6570,6 @@ xn--flw351e.com
 .373258.com
 .3737.com
 .3737k.com
-.3737tyc.com
 .373best.com
 .373f.com
 .373house.com
@@ -6971,6 +6970,7 @@ xn--flw351e.com
 .462546.com
 .46412.com
 .46466.me
+.465676.tv
 .4658.net
 .466.com
 .4662000.com
@@ -7631,6 +7631,7 @@ xn--flw351e.com
 .51xie.com
 .51xingjy.com
 .51xpj.com
+.51xuanxiao.com
 .51xue8.com
 .51xuetang.com
 .51xuewen.com
@@ -9768,6 +9769,7 @@ xn--flw351e.com
 .90bola.me
 .90ckm.com
 .90e.com
+.90hello.com
 .90ko.net
 .90lhd.com
 .90qh.com
@@ -9876,6 +9878,7 @@ xn--flw351e.com
 .91haoke.com
 .91huayi.com
 .91huoke.com
+.91huola.com
 .91ios.com
 .91jbz.com
 .91jf.com
@@ -10197,6 +10200,7 @@ xn--flw351e.com
 .96811.com
 .96822.com
 .96845.com
+.968550.com
 .96877.net
 .968pk.com
 .969009.com
@@ -10513,6 +10517,7 @@ xn--flw351e.com
 .9wuli.com
 .9xiazaiqi.com
 .9xiu.com
+.9xiuzb.com
 .9xkd.com
 .9xwang.com
 .9yao.com
@@ -13576,6 +13581,7 @@ xn--flw351e.com
 .beimu.com
 .beingmate.com
 .beipy.com
+.beiren.cc
 .beisen.com
 .beisencorp.com
 .beitao8.com
@@ -14055,7 +14061,6 @@ xn--flw351e.com
 .biqugexsw.com
 .biqugexsw8.com
 .biqugexx.com
-.biqugg.com
 .biqugu.net
 .biquguan.com
 .biqukan.com
@@ -14458,6 +14463,7 @@ xn--flw351e.com
 .bkpcn.com
 .bkqq.com
 .bkweek.com
+.bkwgf.com
 .bkxs.net
 .bkzzy.com
 .bl.com
@@ -14908,6 +14914,7 @@ xn--flw351e.com
 .bscstorage.net
 .bsd4fz.com
 .bsdgco.com
+.bsdt1688.com
 .bsgcnc.com
 .bsgslb.com
 .bsh-tech.com
@@ -17017,6 +17024,7 @@ xn--flw351e.com
 .chinaadec.com
 .chinaaet.com
 .chinaagrisci.com
+.chinaagv.com
 .chinaairer.com
 .chinaalex.com
 .chinaamuse.com
@@ -17649,6 +17657,7 @@ xn--flw351e.com
 .chongwujiaoyi.com
 .chongwuxiang.com
 .chongya.com
+.chongya.vip
 .chongyacdn.com
 .chongyejia.com
 .chongyitang.org
@@ -17659,7 +17668,6 @@ xn--flw351e.com
 .choujue.net
 .choukang.com
 .choupangxia.com
-.chouqinshuwu.com
 .chouqu.com
 .chouti.cc
 .chplayer.com
@@ -17717,7 +17725,6 @@ xn--flw351e.com
 .chuangtoo.com
 .chuangx.org
 .chuangxinapi.com
-.chuangxinbeidou.com
 .chuangxinoa.com
 .chuangye.com
 .chuangye98.com
@@ -17757,7 +17764,6 @@ xn--flw351e.com
 .chufaba.me
 .chufw.com
 .chuge8.com
-.chugou360.com
 .chuguo78.com
 .chuguofeng.com
 .chuguohao.com
@@ -18507,7 +18513,6 @@ xn--flw351e.com
 .cngb.org
 .cngba.com
 .cngbdl.com
-.cnggt120.com
 .cngin.com
 .cngnu.net
 .cngold.org
@@ -19329,7 +19334,6 @@ xn--flw351e.com
 .cqkeb.com
 .cqkhg.com
 .cqkjwx.com
-.cqklsm.com
 .cqkqinfo.com
 .cqkundian.com
 .cqkx.com
@@ -20571,6 +20575,7 @@ xn--flw351e.com
 .daztoutiao.com
 .dazui.com
 .db-cache.com
+.db.ci
 .db9x.com
 .dbankcloud.asia
 .dbankcloud.eu
@@ -22278,6 +22283,7 @@ xn--flw351e.com
 .duozhuayu.com
 .duozhuayu.net
 .dup2.org
+.dupan.ink
 .dusays.com
 .dushewang.com
 .dushicn.com
@@ -23074,7 +23080,6 @@ xn--flw351e.com
 .egotops.com
 .egou.com
 .egou0515.com
-.egouo.net
 .egouz.com
 .egovsum.com
 .egreatworld.com
@@ -24920,7 +24925,6 @@ xn--flw351e.com
 .fnrczp.com
 .fnscore.com
 .fnysb.com
-.fnyy.net
 .fnzoo.com
 .fo12.com
 .fob123.com
@@ -25446,6 +25450,7 @@ xn--flw351e.com
 .fyrsks.com
 .fyrwzz.com
 .fysns.com
+.fysoft3.com
 .fytcw.com
 .fytxonline.com
 .fytz.net
@@ -26033,6 +26038,7 @@ xn--flw351e.com
 .geizan.cc
 .gejiawen.com
 .gejiba.com
+.gelicang.net
 .gelics.com
 .gelonghui.com
 .gelu.me
@@ -27089,7 +27095,6 @@ xn--flw351e.com
 .gudi.cc
 .guduodata.com
 .guestops.com
-.gufengmh.com
 .gufengmh8.com
 .gufengmh9.com
 .guge.tw
@@ -27855,6 +27860,7 @@ xn--flw351e.com
 .haixiutv.com
 .haixiuvv.com
 .haixue.com
+.haixuemeili.com
 .haixunpr.org
 .haixunw.com
 .haiyi701.com
@@ -28983,7 +28989,6 @@ xn--flw351e.com
 .hfrqh.com
 .hfrsggff.com
 .hfsava.com
-.hfsem.com
 .hfsid.com
 .hfssw.com
 .hfswcz.com
@@ -29456,6 +29461,7 @@ xn--flw351e.com
 .hngyzx.org
 .hnh.cc
 .hnhaofang.com
+.hnhflqgc.com
 .hnhnled.com
 .hnhxhz.com
 .hnhxin.com
@@ -30508,6 +30514,7 @@ xn--flw351e.com
 .huiqiangkeji.com
 .huiqudsp.com
 .huiris.com
+.huirixiao.com
 .huishangbao.com
 .huishangol.com
 .huishenghuo888888.com
@@ -31024,6 +31031,7 @@ xn--flw351e.com
 .hzjunxing.com
 .hzkayo.com
 .hzkshx.com
+.hzkuangxiangzi.com
 .hzleshun.com
 .hzljlyy.com
 .hzlug.org
@@ -32173,6 +32181,7 @@ xn--flw351e.com
 .imtuan.com
 .imtvs.cc
 .imudgame.com
+.imugeda.com
 .imuke.com
 .imuo.com
 .imushan.com
@@ -33865,7 +33874,6 @@ xn--flw351e.com
 .jikedaohang.com
 .jikedata.com
 .jikefan.com
-.jikeiot.cloud
 .jikejiazhuang.com
 .jikejidi.com
 .jikemac.com
@@ -33900,6 +33908,7 @@ xn--flw351e.com
 .jin10.com
 .jin10x.com
 .jinanguanggao.com
+.jinanmice.com
 .jinanqianji.com
 .jinanxww.com
 .jinbaiteng.com
@@ -34395,7 +34404,6 @@ xn--flw351e.com
 .jjvod.tv
 .jjw.com
 .jjwli.com
-.jjword.com
 .jjwxc.com
 .jjwxc.org
 .jjx88.net
@@ -35202,6 +35210,7 @@ xn--flw351e.com
 .juzicy.com
 .juzifenqi.com
 .juzilicai.com
+.juzimi.cc
 .juzimi.com
 .juzioo.com
 .juziseo.com
@@ -35233,6 +35242,7 @@ xn--flw351e.com
 .jwwey.com
 .jwyun.net
 .jx-bank.com
+.jx-dzx.com
 .jx-nc.com
 .jx.la
 .jx09.com
@@ -35862,7 +35872,6 @@ xn--flw351e.com
 .kekepx.com
 .kekeshici.com
 .kekexueba.com
-.kekiss.com
 .kekoku.com
 .kele8.com
 .kelehuyu.com
@@ -38036,7 +38045,6 @@ xn--flw351e.com
 .lingzhitech.com
 .lingzhtech.com
 .linhao99.com
-.linhere.com
 .linhuiba.com
 .lining.com
 .lining0806.com
@@ -38176,7 +38184,6 @@ xn--flw351e.com
 .liqwei.com
 .lirenling.com
 .liriansu.com
-.liroi.com
 .lirui.name
 .lis99.com
 .lisa33xiaoq.net
@@ -38959,6 +38966,7 @@ xn--flw351e.com
 .ludeqi.com
 .ludiban.com
 .ludou.org
+.ludu319.com
 .luduzww.com
 .luedian.com
 .luexiao.com
@@ -39357,7 +39365,6 @@ xn--flw351e.com
 .m2mzy.com
 .m3guo.com
 .m448.com
-.m4yy.com
 .m598.com
 .m5bn.com
 .m5stack.com
@@ -41000,6 +41007,7 @@ xn--flw351e.com
 .mobvoi.com
 .mocache.com
 .mocartoon.com
+.mochai.store
 .mochouu.com
 .mockingbot.com
 .mockplus.com
@@ -45487,6 +45495,7 @@ xn--flw351e.com
 .qianliao.tv
 .qianliaowang.com
 .qianlimafile.com
+.qianlimazb.com
 .qianlinkj.com
 .qianlong.com
 .qianluxiaoshuo.com
@@ -47204,6 +47213,7 @@ xn--flw351e.com
 .rm-static.djicdn.com
 .rmb.sh
 .rmcteam.org
+.rmejk.com
 .rmhospital.com
 .rmjtxw.com
 .rmlxx.com
@@ -47408,7 +47418,6 @@ xn--flw351e.com
 .rrzuji.com
 .rrzxw.net
 .rs485.net
-.rsb.net
 .rscala.com
 .rscloudmart.com
 .rsdgd.com
@@ -47620,6 +47629,7 @@ xn--flw351e.com
 .rzhuaqiangu.com
 .rzline.com
 .rzok.net
+.rzspx.com
 .rzszp.com
 .rzwssy.com
 .rzx.me
@@ -49160,6 +49170,7 @@ xn--flw351e.com
 .shjxfc.com
 .shjyou.com
 .shjyyx.com
+.shjzfutures.com
 .shkegai.net
 .shkingchem.com
 .shkkl.com
@@ -50425,6 +50436,7 @@ xn--flw351e.com
 .sojixun.com
 .sojump.hk
 .sokoban.ws
+.sokuba.com
 .sokutu.com
 .solarbe.com
 .solaridc.com
@@ -53992,13 +54004,13 @@ xn--flw351e.com
 .tuotuozu.com
 .tuoweisi.com
 .tuoxiaoshebei.com
-.tuoyundan.com
 .tuozhe8.com
 .tupai.me
 .tupian114.com
 .tupian1234.com
 .tupian365.com
 .tupiancunchu.com
+.tupianjp.com
 .tupiankucdn.com
 .tupianzj.com
 .tupu360.com
@@ -57844,6 +57856,7 @@ xn--flw351e.com
 .wsqejt.com
 .wsry18.xyz
 .wsssec.com
+.wstong.com
 .wstx.com
 .wsurl.cc
 .wsview.com
@@ -60094,6 +60107,7 @@ xn--flw351e.com
 .xn--w9qy23cc6adz7d.net
 .xn--wlqw5ebvdhpi5hepihs3c.com
 .xn--xhq521b
+.xn--xkrs9ba41r.com
 .xn--ygtp21bwyedsq.com
 .xn--zfr164b
 .xn-ck.com
@@ -60727,7 +60741,6 @@ xn--flw351e.com
 .xyrbszb.com
 .xyrtv.com
 .xysb.com
-.xyssdzrmzf.com
 .xysstgs.com
 .xystatic.com
 .xystoy.com
@@ -60802,6 +60815,7 @@ xn--flw351e.com
 .xzlogo.com
 .xzlres.com
 .xzltzc.com
+.xzlwz.com
 .xzm56.com
 .xzn56.com
 .xzoo.org
@@ -61149,7 +61163,6 @@ xn--flw351e.com
 .ycpai.com
 .ycrh-tattoo.com
 .ycrusher.com
-.ycrx360.com
 .ycsd.work
 .ycsrc.com
 .ycsystem.com
@@ -61174,6 +61187,7 @@ xn--flw351e.com
 .yddff556.xyz
 .ydh.fun
 .ydimmi.com
+.ydjdcjc.com
 .ydjia.com
 .ydjt1166.com
 .ydkj2019.com
@@ -62176,6 +62190,7 @@ xn--flw351e.com
 .ynlvyou20.com
 .ynlyfw.com
 .ynmec.com
+.ynnits.com
 .ynpxrz.com
 .ynrayy.com
 .ynshangji.com
@@ -62185,6 +62200,7 @@ xn--flw351e.com
 .ynteng.com
 .yntsg.com
 .ynwin.com
+.ynxdfpr.com
 .ynxr.com
 .ynxxb.com
 .ynycloud.xyz
@@ -64345,7 +64361,6 @@ xn--flw351e.com
 .zhe4000.com
 .zhe800.com
 .zhebei.com
-.zhebiekeji.com
 .zhefengle.com
 .zhejiangmuseum.com
 .zhejiangqinghe.com
@@ -65330,6 +65345,7 @@ xn--flw351e.com
 .zjldrcb.com
 .zjlottery.com
 .zjlsbz.com
+.zjlsjc.com
 .zjlvjie.com
 .zjlxtx.com
 .zjmax.com

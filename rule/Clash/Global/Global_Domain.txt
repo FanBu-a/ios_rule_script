@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-11 02:09:02
+# UPDATED: 2022-12-12 02:09:12
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37361
+# DOMAIN-SUFFIX: 37365
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37686
+# TOTAL: 37690
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -634,6 +634,7 @@ assets-priconne-redive-us.akamaized.net
 .afp.com
 .afpforum.com
 .afriboyz.com
+.aga-expo.com
 .agendaweek.com
 .agoogleaday.com
 .agu.org
@@ -2978,7 +2979,6 @@ assets-priconne-redive-us.akamaized.net
 .clco.cc
 .clearasil.cn
 .clearasil.com.cn
-.clearlinux.cn
 .clearlinux.org
 .click-url.com
 .clickserve.cc-dt.com
@@ -4607,6 +4607,7 @@ assets-priconne-redive-us.akamaized.net
 .fanqianglu.com
 .fans-here.com
 .fansnudes.com
+.fansta.me
 .fansteek.com
 .fantasiasguatemala.com
 .fantasti.cc
@@ -7388,6 +7389,7 @@ assets-priconne-redive-us.akamaized.net
 .lordofultima.com
 .lostbetsgames.com
 .lotcrap.com
+.love6.tv
 .love7.xyz
 .lovebeatsdr.com
 .lovedolltorso.com
@@ -8861,6 +8863,7 @@ assets-priconne-redive-us.akamaized.net
 .omniture.com
 .omobi.cc
 .omoplanet.com
+.omorashi.org
 .omscr.com
 .on.here
 .onahodouga.com
@@ -9387,6 +9390,7 @@ assets-priconne-redive-us.akamaized.net
 .playerjs.io
 .playhearthstone.com
 .playmation.com
+.playmeow.com
 .playnintendo.com
 .playoverwatch.com
 .playparagon.com

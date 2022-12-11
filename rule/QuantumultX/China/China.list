@@ -1,14 +1,14 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:56
+# UPDATED: 2022-12-12 02:09:46
 # HOST: 18
 # HOST-KEYWORD: 10
-# HOST-SUFFIX: 3511
+# HOST-SUFFIX: 3514
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3584
+# TOTAL: 3587
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
@@ -808,6 +808,7 @@ HOST-SUFFIX,chuangxin.com,China
 HOST-SUFFIX,chuanke.com,China
 HOST-SUFFIX,chuansong.me,China
 HOST-SUFFIX,chuansongme.com,China
+HOST-SUFFIX,chugou360.com,China
 HOST-SUFFIX,chuimg.com,China
 HOST-SUFFIX,chunbo.com,China
 HOST-SUFFIX,chunboimg.com,China
@@ -1881,6 +1882,7 @@ HOST-SUFFIX,jibencaozuo.com,China
 HOST-SUFFIX,jidian.im,China
 HOST-SUFFIX,jiemeng8.com,China
 HOST-SUFFIX,jiemian.com,China
+HOST-SUFFIX,jikeiot.cloud,China
 HOST-SUFFIX,jikexueyuan.com,China
 HOST-SUFFIX,jikipedia.com,China
 HOST-SUFFIX,jindidata.com,China
@@ -3331,6 +3333,7 @@ HOST-SUFFIX,yaozh.com,China
 HOST-SUFFIX,ybccode.com,China
 HOST-SUFFIX,yccdn.com,China
 HOST-SUFFIX,ycgame.com,China
+HOST-SUFFIX,ycrx360.com,China
 HOST-SUFFIX,ydamc.com,China
 HOST-SUFFIX,ydstatic.com,China
 HOST-SUFFIX,yeah.net,China

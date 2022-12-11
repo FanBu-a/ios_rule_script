@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-11 02:09:02
+# UPDATED: 2022-12-12 02:09:12
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37361
+# DOMAIN-SUFFIX: 37365
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37686
+# TOTAL: 37690
 DOMAIN,abematv.akamaized.net
 DOMAIN,amp.akamaized.net
 DOMAIN,angle.com.tw
@@ -634,6 +634,7 @@ DOMAIN-SUFFIX,aflamsexhd.com
 DOMAIN-SUFFIX,afp.com
 DOMAIN-SUFFIX,afpforum.com
 DOMAIN-SUFFIX,afriboyz.com
+DOMAIN-SUFFIX,aga-expo.com
 DOMAIN-SUFFIX,agendaweek.com
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agu.org
@@ -2978,7 +2979,6 @@ DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,clco.cc
 DOMAIN-SUFFIX,clearasil.cn
 DOMAIN-SUFFIX,clearasil.com.cn
-DOMAIN-SUFFIX,clearlinux.cn
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,click-url.com
 DOMAIN-SUFFIX,clickserve.cc-dt.com
@@ -4607,6 +4607,7 @@ DOMAIN-SUFFIX,fanleakstoday.com
 DOMAIN-SUFFIX,fanqianglu.com
 DOMAIN-SUFFIX,fans-here.com
 DOMAIN-SUFFIX,fansnudes.com
+DOMAIN-SUFFIX,fansta.me
 DOMAIN-SUFFIX,fansteek.com
 DOMAIN-SUFFIX,fantasiasguatemala.com
 DOMAIN-SUFFIX,fantasti.cc
@@ -7388,6 +7389,7 @@ DOMAIN-SUFFIX,looporn.com
 DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,lostbetsgames.com
 DOMAIN-SUFFIX,lotcrap.com
+DOMAIN-SUFFIX,love6.tv
 DOMAIN-SUFFIX,love7.xyz
 DOMAIN-SUFFIX,lovebeatsdr.com
 DOMAIN-SUFFIX,lovedolltorso.com
@@ -8861,6 +8863,7 @@ DOMAIN-SUFFIX,omnitek.tv
 DOMAIN-SUFFIX,omniture.com
 DOMAIN-SUFFIX,omobi.cc
 DOMAIN-SUFFIX,omoplanet.com
+DOMAIN-SUFFIX,omorashi.org
 DOMAIN-SUFFIX,omscr.com
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,onahodouga.com
@@ -9387,6 +9390,7 @@ DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playerjs.io
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playmation.com
+DOMAIN-SUFFIX,playmeow.com
 DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,playoverwatch.com
 DOMAIN-SUFFIX,playparagon.com
